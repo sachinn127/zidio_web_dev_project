@@ -1,0 +1,4 @@
+this project is task manangement project that will assign tasks to user and they will do it and then mark if the task is completed or not in this project i use react.js for frontend and for backend
+I use node.js and express.js this project get the user data that which one has completed tha task the task and which ahs not completed the task and yet user can mark as complted and mark as incompleted and then
+admin can check if the project is done by user and still not done, data about the project done and  not done will be stored in database, i use mongodb for this project that will store data of users if they did the task or not 
+
